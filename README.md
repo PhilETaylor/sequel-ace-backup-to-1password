@@ -1,4 +1,4 @@
-# Sequel Ace Backup Tool
+# Sequel Ace Favourites Backup Tool
 
 A command-line tool to backup and restore Sequel Ace favorites including passwords, with secure storage in 1Password.
 
