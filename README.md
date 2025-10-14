@@ -37,7 +37,7 @@ A previous iteration just dumped favorites to/from a JSON file - you could ask C
    brew install --cask 1password-cli
    ```
 
-3. Sign in to 1Password CLI:
+3. Sign in to 1Password CLI (You first need to enable CLI in 1Password settings if you have not already done so):
    ```bash
    op signin
    ```
