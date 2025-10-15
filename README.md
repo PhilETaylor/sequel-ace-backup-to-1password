@@ -440,3 +440,5 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 ## Credits
 
 Created to solve the problem of migrating Sequel Ace favorites between machines while preserving passwords securely.
+
+Written 100% by Claude.ai with prompts from @PhilETaylor
